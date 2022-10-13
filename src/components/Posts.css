@@ -1,0 +1,7 @@
+.posts {
+  border-width: 1px;
+  border-color: rgb(32, 43, 247);
+  border-style: double;
+  text-align: left;
+  padding: 10%;
+}
