@@ -13,7 +13,7 @@
         ### `npm test`on project directory
 
 
-* SOME PRINTSCREENS
+* SOME SCREENSHOTS
 
 ![1](https://user-images.githubusercontent.com/18203481/195496859-eacefb1a-4119-4598-bbf4-abfbc2207f83.PNG)
 ![2](https://user-images.githubusercontent.com/18203481/195496864-3f85c958-0e3d-4433-80b5-6420d6944303.PNG)
