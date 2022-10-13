@@ -1,18 +1,16 @@
 #Letter App using JavaScript and ReactJS
 
 * INSTALL NODE DEPENDENCIES
-
-### `npm install` on project directory
+      ### `npm install` on project directory
+      
 
 * START APPLICATION
-
-### `npm start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+       ### `npm start`
+       Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 * TESTS
-### `npm test`on project directory
+        ### `npm test`on project directory
 
 
 * SOME PRINTSCREENS
